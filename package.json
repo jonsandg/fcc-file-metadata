@@ -1,0 +1,22 @@
+{
+  "name": "fcc-file-metadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonsandg/fcc-file-metadata.git"
+  },
+  "author": "Jonathan Sandgren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonsandg/fcc-file-metadata/issues"
+  },
+  "homepage": "https://github.com/jonsandg/fcc-file-metadata#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
