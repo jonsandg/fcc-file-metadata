@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jonsandg/fcc-file-metadata#readme",
   "dependencies": {
+    "busboy-body-parser": "^0.2.0",
     "express": "^4.14.0"
   }
 }
